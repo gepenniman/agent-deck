@@ -17,7 +17,7 @@ require (
 	github.com/fsnotify/fsnotify v1.10.1
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
-	github.com/klauspost/compress v1.18.6
+	github.com/klauspost/compress v1.18.7
 	github.com/mattn/go-runewidth v0.0.23
 	github.com/muesli/termenv v0.16.0
 	github.com/rivo/uniseg v0.4.7
